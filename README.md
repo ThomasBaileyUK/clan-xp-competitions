@@ -14,6 +14,6 @@ Boss kills are counted from the game's kill-count messages ("Your Vorkath kill c
 
 Online tracking is **off by default**. When you turn it on, the plugin sends your
 username and your XP or boss kill count for your clan's competitions to the clan server
-(`clan-xp-api.thomas-bailey20.workers.dev`). This submits your IP address to a
+(`clan-xp-api.purevibes.workers.dev`). This submits your IP address to a
 3rd-party server not controlled or verified by RuneLite developers. Nothing is
 sent while it is off.

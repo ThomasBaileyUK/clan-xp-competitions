@@ -28,7 +28,7 @@ import okhttp3.ResponseBody;
 @Singleton
 class ClanXpApi
 {
-	static final String BASE_URL = "https://clan-xp-api.thomas-bailey20.workers.dev";
+	static final String BASE_URL = "https://clan-xp-api.purevibes.workers.dev";
 
 	private static final MediaType JSON = MediaType.parse("application/json; charset=utf-8");
 
